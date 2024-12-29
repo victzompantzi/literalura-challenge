@@ -57,11 +57,7 @@ Alura Challenge - LiteraAlura - Oracle Next ONE G7 2024
 
 ### Project Demo
 
-Watch the project demo video below:
-
-<div align="center">
-  <iframe width="560" height="315" src="https://www.veed.io/view/714b77f0-bebe-499c-be53-ea1d96066dcc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Watch the project demo VIDEO [here](https://www.veed.io/view/714b77f0-bebe-499c-be53-ea1d96066dcc?panel=share).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
